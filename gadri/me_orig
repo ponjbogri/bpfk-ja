@@ -1,0 +1,37 @@
+http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri
+Source of version: 13 (current)
+Created by xorxes. Last Modification: Monday 23 of September, 2013 13:01:39 UTC by guskant.
+
+
+{BOX()}
+!! cmavo me (ME)
+
+!!! Proposed Definition
+Converts a sumti into a tanru-unit with place structure ''"x1 is/are among the referents of the sumti"''.
+
+!!! Proposed Tag
+
+
+!!! See Also
+* {me'u}
+* {moi}
+
+!!! Proposed Keywords
+
+
+!!! Usage Examples
+;xu do djica lo nu do me mi'a:"Do you want to be one of us?"
+
+!!! Notes
+
+!!! Issues
+
+{BOX}
+
+
+!! General Section Notes
+
+# The definition of __me__ corresponds to the basic relation __''Among''__ as formalized in the book ''Plural Predication'' (Oxford University Press, 2006) by [http://thecollege.syr.edu/profiles/pages/mckay-thomas.html|Thomas McKay],  which also agrees with the definition as given in CLL.
+
+
+
