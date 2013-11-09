@@ -1,5 +1,5 @@
-lojban¤ÎBPFK¥»¥¯¥·¥ç¥ó¤Îgadri¤ÎÉôÊ¬¤ÎÆüËÜ¸ìÌõ
-¤È¤ê¤¢¤¨¤º¤ÎÁÆÌõ¡£
+lojbanã®BPFKã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®gadriã®éƒ¨åˆ†ã®æ—¥æœ¬èªè¨³
+ã¨ã‚Šã‚ãˆãšã®ç²—è¨³ã€‚
 
 
 http://www.lojban.org/tiki/BPFK+Section%3A+gadri
@@ -7,44 +7,44 @@ Source of version: 81 (current)
 Created by xorxes. Last Modification: Saturday 10 of December, 2011 16:35:01 UTC by xorxes.
 
 
-ÄêµÁ°Æ
+å®šç¾©æ¡ˆ
 !Proposed definitions
 
 lo (LE):
-Êñ³çÅª¤Ê´§»ì¡£
-¥»¥ë¥Ö¥ê¤ò¡¢¤½¤Î1ÈÖÌÜ¤Î°ú¿ô¤ò¤È¤Ã¤Æ¡¢¥¹¥à¥Æ¥£¤Ë¤¹¤ë¡£
-·ë²Ì¤È¤·¤Æ¤Ç¤­¤ëÉ½¸½¤Ï¤½¤Î¥»¥ë¥Ö¥ê¤Î1ÈÖÌÜ¤Î°ú¿ô¤ËÅ¬¤¦¤Ò¤È¤Ä¤Ş¤¿¤ÏÊ£¿ô¤Î¸ÄÂÎ¤ò¼¨¤¹¡£
-ÆâÉô¿ôÎÌ»Ò¤Ç¸ÄÂÎ¤Î¿ô¤ò¼¨¤¹¤³¤È¤¬¤Ç¤­¤ë¡£
-³°Éô¿ôÎÌ»Ò¤Ç¤½¤ì¤é¤Î¸ÄÂÎ¤«¤éÊ¬¤±¤Æ¿ô¤ò¼¨¤¹¤³¤È¤¬¤Ç¤­¤ë¡£
+åŒ…æ‹¬çš„ãªå† è©ã€‚
+ã‚»ãƒ«ãƒ–ãƒªã‚’ã€ãã®1ç•ªç›®ã®å¼•æ•°ã‚’ã¨ã£ã¦ã€ã‚¹ãƒ ãƒ†ã‚£ã«ã™ã‚‹ã€‚
+çµæœã¨ã—ã¦ã§ãã‚‹è¡¨ç¾ã¯ãã®ã‚»ãƒ«ãƒ–ãƒªã®1ç•ªç›®ã®å¼•æ•°ã«é©ã†ã²ã¨ã¤ã¾ãŸã¯è¤‡æ•°ã®å€‹ä½“ã‚’ç¤ºã™ã€‚
+å†…éƒ¨æ•°é‡å­ã§å€‹ä½“ã®æ•°ã‚’ç¤ºã™ã“ã¨ãŒã§ãã‚‹ã€‚
+å¤–éƒ¨æ•°é‡å­ã§ãã‚Œã‚‰ã®å€‹ä½“ã‹ã‚‰åˆ†ã‘ã¦æ•°ã‚’ç¤ºã™ã“ã¨ãŒã§ãã‚‹ã€‚
 
 ;__lo__ (LE): Generic article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to any or some individual or individuals that fit as the first argument of the selbri. An inner quantifier can be used to indicate the number of individuals. An outer quantifier can be used to quantify distributively over such individuals. 
 
    lo rozgu cu xunre
-   ¡Ö¥Ğ¥é¤¬ÀÖ¤¤¡£¡×
+   ã€Œãƒãƒ©ãŒèµ¤ã„ã€‚ã€
    ''Roses are red.''
 
    xu ro lo rozgu cu xunre i na go'i i mu'a su'o lo rozgu cu pelxu
-   ¡Ö¤¹¤Ù¤Æ¤Î¥Ğ¥é¤¬ÀÖ¤¤¤Ç¤¹¤«¡£¤¤¤¨¡£Îã¤¨¤Ğ¡¢²«¿§¤¤¥Ğ¥é¤¬¤¢¤ê¤Ş¤¹¡£¡×
+   ã€Œã™ã¹ã¦ã®ãƒãƒ©ãŒèµ¤ã„ã§ã™ã‹ã€‚ã„ãˆã€‚ä¾‹ãˆã°ã€é»„è‰²ã„ãƒãƒ©ãŒã‚ã‚Šã¾ã™ã€‚ã€
    ''Is every rose red? No, some roses are yellow, for example.''
 
    lo tadni cu sruri le dinju gi'e krixa
-   ¡ÖÀ¸ÅÌ¤Ï·úÊª¤ò¤È¤ê¤Ş¤­¡¢¤«¤Ä¡¢¶«¤Ö¡×
+   ã€Œç”Ÿå¾’ã¯å»ºç‰©ã‚’ã¨ã‚Šã¾ãã€ã‹ã¤ã€å«ã¶ã€
    ''Students are surrounding the building and yelling.''
 
    ko'a pu lebna lo xanlai pe lo cmananba gi'e dunda ciboi cy mi
-   ¡ÖÈà¤Ï¥Ó¥¹¥±¥Ã¥È¤Î¤Ò¤È¤Ä¤«¤ß¤òÃ¥¤¤¡¢¤«¤Ä¡¢¤½¤ì¤Î3¤Ä¤ò»ä¤Ë¤¯¤ì¤¿¡×
+   ã€Œå½¼ã¯ãƒ“ã‚¹ã‚±ãƒƒãƒˆã®ã²ã¨ã¤ã‹ã¿ã‚’å¥ªã„ã€ã‹ã¤ã€ãã‚Œã®3ã¤ã‚’ç§ã«ãã‚ŒãŸã€
    ''He grabbed a handful of biscuits and gave me three.''
 
    ca ro nu mi rere'u catlu lo skina kei mi cpacu lo so'i se cusku poi mi na cpacu ca lo pamoi
-   ¡Ö»ä¤Ï±Ç²è¤ò2ÅÙÌÜ¤Ë¸«¤ë¤È¤­¤Ï¤¤¤Ä¤â¡¢1ÅÙÌÜ¤Ë¤Ï¼è¤ì¤Ê¤«¤Ã¤¿¥»¥ê¥Õ¤òÆÀ¤ë¡£¡×
+   ã€Œç§ã¯æ˜ ç”»ã‚’2åº¦ç›®ã«è¦‹ã‚‹ã¨ãã¯ã„ã¤ã‚‚ã€1åº¦ç›®ã«ã¯å–ã‚Œãªã‹ã£ãŸã‚»ãƒªãƒ•ã‚’å¾—ã‚‹ã€‚ã€
    ''Every time I see a movie for the second time I get all this dialogue that I missed the first time.''
 
    ei lo verba cu mutce fraxu lo makcu prenu
-   ¡Ö»Ò¶¡¤ÏÂç¿Í¤Î¿Í¤ò¤¹¤´¤¯µö¤¹¤Ù¤­¤À¡×
+   ã€Œå­ä¾›ã¯å¤§äººã®äººã‚’ã™ã”ãè¨±ã™ã¹ãã ã€
    ''Children should show great forbearance toward grown-up people.''
 
    ku'i uinai mi na viska lo lanme pa'o lo bitmu be fo lo tanxe i ju'ocu'i mi milxe simsa lo makcu prenu
-   ¡Ö¤À¤±¤É¡¢¤¢¤¢¡¢
+   ã€Œã ã‘ã©ã€ã‚ã‚ã€
    ''But I, alas, do not see sheep through the walls of boxes. Perhaps I am a little like the grown-ups.''
 
    ca lo nicte lo cinfo cu kalte lo cidja
