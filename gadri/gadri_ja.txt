@@ -126,15 +126,37 @@ An outer quantifier can be used to quantify distributively over those individual
    ''Caution! There are five hungry Soviet cows in the garden.''
    (訳注: この文、知ってますか?)
 
+la (LA):
+名前の冠詞。
+セルブリを、1番目の引数を取って、またはシュメブラの文字列をスムティに変える。
+結果としてできる表現は、話者の心のなかにあり
+そのセルブリかシュメブラで話者が名づけた単数または複数の個体を特定的に示す。
+(セルブリの場合)内部数量子は名前の一部として使える。
+外部数量子はそれらの個体を別々に数えた数量を示すのに使える。
 
-;__la__ (LA): Name article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.  An inner quantifier can be used (in the case of a selbri) as part of the name. An outer quantifier can be used to quantify distributively over those individuals.
+訳注1: "selecting its first argument"とあるが、これは消去するべきかと思われる。
+	何故なら「名前」はそのselbriが何を指すのかとは関係ないはずなので。
+訳注2: cmevlaをselbriとして使えるという新文法からすると
+	内部数量子の説明のところの(in the case of a selbri)という説明は
+	不要になるはずだ。
+
+;__la__ (LA):
+Name article.
+It converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
+The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.
+An inner quantifier can be used (in the case of a selbri) as part of the name.
+An outer quantifier can be used to quantify distributively over those individuals.
+
    ma'i la midju terdi la sadam na sai me la sauron
+   「中央地球のなかで考えると、サダムさんはまったくサウロンさん的ではない。」
    ''In Middle Earth-terms, Saddam is by no means a 'Sauron'.''
 
    la ci bakni ku poi gusta bu'u la kaiapois cu banli ge lo ka vanbi gi lo ka cidja
+   「カイアポイにある料理屋である『3頭の牛』は環境としても食べ物としてもすばらしい。」
    ''The Three Cows Restaurant in Kaiapoi is a wonderful place, both atmosphere and food-wise.''
 
    ci la magdonaldz cu jibni le mi briju
+   「3つのマクドナルドが私の事務所の近所にある。」
    ''There are three McDonald's near my office.''
 
 ----------------
