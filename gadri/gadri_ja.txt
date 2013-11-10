@@ -13,11 +13,17 @@ Created by xorxes. Last Modification: Saturday 10 of December, 2011 16:35:01 UTC
 lo (LE):
 包括的な冠詞。
 セルブリを、その1番目の引数をとって、スムティにする。
-結果としてできる表現はそのセルブリの1番目の引数に適うひとつまたは複数の個体を示す。
+結果としてできる表現はそのセルブリの1番目の引数に適うひとつまたは複数の個体を
+包括的に示す。
 内部数量子で個体の数を示すことができる。
 外部数量子でそれらの個体から分けて数を示すことができる。
 
-;__lo__ (LE): Generic article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to any or some individual or individuals that fit as the first argument of the selbri. An inner quantifier can be used to indicate the number of individuals. An outer quantifier can be used to quantify distributively over such individuals. 
+;__lo__ (LE):
+Generic article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers generically to any or some individual or individuals that fit as the first argument of the selbri.
+An inner quantifier can be used to indicate the number of individuals.
+An outer quantifier can be used to quantify distributively over such individuals. 
 
    lo rozgu cu xunre
    「バラが赤い。」
@@ -83,21 +89,42 @@ lo (LE):
    「9つのうち2つの惑星はそれが太陽に近いという性質において地球以上だ。」
    ''Two of the nine planets are closer to the Sun than the Earth.'' 
 
-;__le__ (LE): Specific article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker describes as fitting the first argument of the selbri. An inner quantifier can be used to indicate the number of individuals. An outer quantifier can be used to quantify distributively over those individuals. 
+le (LE):
+特定の冠詞。
+セルブリを、その1番目の引数をとって、スムティにする。
+結果としてできる表現は、そのセルブリの1番目の引数に適うものとして
+話者が描写する、話者の心のなかにある、ひとつまたは複数の個体を特定的に示す。
+内部数量子で個体の数を示すことができる。
+外部数量子でそれらの個体から分けて数を示すことができる。
+
+;__le__ (LE):
+Specific article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker describes as fitting the first argument of the selbri.
+An inner quantifier can be used to indicate the number of individuals.
+An outer quantifier can be used to quantify distributively over those individuals. 
+
    le palta ba'o porpi i ma gasnu i xu le gerku cu go'i
+   「この皿は壊れてしまった。誰がしたのか。犬がしたのか。」
    ''The dish is broken. Who did it? Was it the dog?''
 
    ko punji le sicni ja'e lo porsi be lo vamrai ku bi'o lo vamtolrai 
+   「これらのコインを、価値最大のものから価値最小のものまでの間を基準とした並びを結果として、置いてください。」
    ''Put the coins in order from greatest to least value.''
 
    ci le bi ctuca cu ninmu
+   「その8人の先生のうち3人は女性だ。」
    ''Three of the eight teachers are women.''
+   (訳注:この場合、残りの5人については男性とも女性とも言っていないことになるだろう)
 
    le va ninmu cu mutce melbi iku'i ca'a nanmu gi'e nelci lo nu ninmu dasni
+   「あの女性はとても美しい。しかし、実際には男で、女的に着るのが好きだ。」
    ''That woman is very beautiful, but she's actually a man who likes to dress as a woman.''
 
    o'i mu xagji sofybakni cu zvati le purdi
+   「気をつけて。5頭の空腹のソビエト牛がその庭にいる。」
    ''Caution! There are five hungry Soviet cows in the garden.''
+   (訳注: この文、知ってますか?)
 
 
 ;__la__ (LA): Name article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.  An inner quantifier can be used (in the case of a selbri) as part of the name. An outer quantifier can be used to quantify distributively over those individuals.
