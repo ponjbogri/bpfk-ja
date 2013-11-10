@@ -44,34 +44,43 @@ lo (LE):
    ''Children should show great forbearance toward grown-up people.''
 
    ku'i uinai mi na viska lo lanme pa'o lo bitmu be fo lo tanxe i ju'ocu'i mi milxe simsa lo makcu prenu
-   「だけど、ああ、
+   「だけど、ああ、私は箱の壁を通して羊を見ない。私はすこし大人の人みたいなのかもしれない。」
    ''But I, alas, do not see sheep through the walls of boxes. Perhaps I am a little like the grown-ups.''
 
    ca lo nicte lo cinfo cu kalte lo cidja
+   「夜にライオンは食べ物を狩る。」
    ''At night lions hunt for food.'' 
 
    lo pa pixra cu se vamji lo ki'o valsi
+   「1枚の絵には100の言葉の価値がある。」
    ''One picture is worth a thousand words.''
 
    de'i li 1960 lo pare sovda cu fepni li 42
+   「1960年には卵12個で42銭した。」
    ''In 1960 a dozen eggs cost 42 cents.''
 
    cimai lo ctuca cu fendi lo selctu lo mu gunma be lo vo tadni
+   「3. 先生は生徒を4人の学習者から成る5つのグループに分ける」
    ''Step 3: The teacher will divide the class into five groups of four students.'' 
 
    lo bidjylinsi pe lo ze seldri cu se pagbu ze gunma be lo ze bidju be'o e ji'a ci bidju e lo kucyga'asni
+   「7つの悲しみの数珠は7つのビーズから成るまとまり7つとさらに3つのビーズと十字架から成る。」
    ''The Rosary of the Seven Sorrows consists of seven groups of seven beads, with three additional beads and a Crucifix.''
 
    ro lo bidjylinsi pe le ze seldri cu se pagbu ze lo gunma be lo ze bidju be'o e ji'a ci lo bidju e pa lo kucyga'asni
+   「すべての7つの悲しみの数珠は7つのビーズから成るまとまり7つとさらに3つのビーズと十字架から成る。」
    ''Every Rosary of the Seven Sorrows consists of seven groups of seven beads, with three additional beads and exactly one Crucifix.''
 
    lo sanli darxi bo dakli cu culno lo djacu onai lo canre to lo djacu cu pukmau ki'u lo nu slilu tolcando toi gi'e bunda li ji'i 270 
+   「立ち叩き鞄は水か砂がつめられ(水のほうが気持ちいい、ゆれるから)、かつ、約270貫の重さである」
    ''Standing punching bags are filled with water or sand - water being preferable because of the wave-motion created - and weigh about 270lbs.''
 
    lo pavyseljirna cu ranmi danlu gi'e simlu lo ka ge ce'u xirma gi lo pa jirna cu cpana lo mebri be ce'u
+   「一本角持ちは伝説の動物で、かつ、馬でありかつ一本の角がその額についている、ような感じだ。」
    ''Unicorns are mythical creatures that look like a horse with a horn coming out of their foreheads.''
 
    re lo so plini cu zmadu le terdi lo ka ce'u jibni le solri
+   「9つのうち2つの惑星はそれが太陽に近いという性質において地球以上だ。」
    ''Two of the nine planets are closer to the Sun than the Earth.'' 
 
 ;__le__ (LE): Specific article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker describes as fitting the first argument of the selbri. An inner quantifier can be used to indicate the number of individuals. An outer quantifier can be used to quantify distributively over those individuals. 
