@@ -161,7 +161,18 @@ An outer quantifier can be used to quantify distributively over those individual
 
 ----------------
 
-;__loi__ (LE): Generic mass article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to a group or groups of individuals that fit the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used to indicate the cardinality of the group or groups. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+loi (LE):
+包括的な集団の冠詞。
+セルブリを、その1番目の引数を取って、スムティにする。
+
+;__loi__ (LE):
+Generic mass article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers generically to a group or groups of individuals that fit the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument.
+An inner quantifier can be used to indicate the cardinality of the group or groups.
+An outer quantifier can be used to quantify distributively over such groups.
+A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+
   loi litru ti jmaji lo ro pagbu be le terdi 
   ''Tourists gather here from all over the world.'' 
 
