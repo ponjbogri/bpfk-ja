@@ -226,6 +226,14 @@ and indicate its cardinality as a fraction of the cardinality of the group.
 
 lai (LA):
 名前の集団の冠詞。
+その1番目の引数を取ってセルブリを、またはシメブラ列をスムティにする。
+結果としてできる表現は、話者の心の中にあり
+語者がそのセルブリまたはシメブラによって名づけた個体の集団を示し、
+それはそのスムティが引数となっている場所の叙述を、集団として満たす。
+(セルブリの場合)内部数量子を名前の一部として使うことができる。
+外部数量子はそれらの集団をひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集団を取り出すことができ、
+その部分集団の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
 
 ;__lai__ (LA):
 Name mass article.
@@ -242,6 +250,7 @@ and indicate its cardinality as a fraction of the cardinality of the group.
 
   ta melbi pixra lai simpson
   ''That's a nice photograph of the Simpsons.''
+  あれはシンプソン達を描いた美しい絵だ。
 
 ;__lo'i__ (LE):
 Generic set article.
