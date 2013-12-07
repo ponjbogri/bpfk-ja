@@ -164,9 +164,13 @@ An outer quantifier can be used to quantify distributively over those individual
 loi (LE):
 包括的な集団の冠詞。
 セルブリを、その1番目の引数を取って、スムティにする。
-結果としてできる表現はそのセルブリの1番目の引数に適う個体と、
-それが、集団として、そのスムティが引数となっている場所の叙述を満たす個体の
+結果としてできる表現は、そのセルブリの1番目の引数に適う個体と、
+それが、そのスムティが引数となっている場所の叙述を、集団として満たす個体の
 単数または複数の集団を包括的に示す。
+内部数量子を集団の要素の数(cardinality)を示すのに使うことができる。
+外部数量子はそれぞれの集団をひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集団を取り出すことができ、
+その部分集団の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
 
 ;__loi__ (LE):
 Generic mass article.
@@ -178,30 +182,79 @@ A fractional outer quantifier can be used to select a subgroup and indicate its 
 
   loi litru ti jmaji lo ro pagbu be le terdi 
   ''Tourists gather here from all over the world.'' 
+  旅人達は世界のあらゆる場所からここに集まる。
 
   loi so'i tadni cu sruri le dinju i so'i le tadni cu krixa
   ''Many students are surrounding the building. Many of the students are yelling.''
+  たくさんの学生達が建物を取り囲んでいる。その学生達の多くが叫んでいる。
+
+  訳注: この場合、pi so'i le tadniのほうが良さそうだ。
+	so'i le tadniだと「学生の集団」がたくさんいることになる。
+	「ひとつまたは少数の多くの学生から成る集団が取り囲んでいて、
+	そのひとつまたは少数の集団のなかにいる学生のほとんどから成る集団が叫んでいる」
+	ということだと思うので。
 
   lo mulno kardygri cu gunma lo vo loi paci karda
   ''A full deck consists of four groups of thirteen cards.''
+  そろっているトランプ一組みは12枚のカードの4組みから成る。
 
-;__lei__ (LE): Specific mass article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to a group of individuals that the speaker has in mind and describes as fitting the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used to indicate the cardinality of the group. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+  訳注: lo vo loi paci kardaはvo loi paci kardaでも良さそうだが。
+	voが内部数量子であることを強調しているのか。
+	何組みかあるうちの4組みではなく、4組みのうちの全部ということ。
+	(ro) lo vo loi paci kardaということか。
+
+;__lei__ (LE):
+Specific mass article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers specifically to a group of individuals that the speaker has in mind and describes as fitting the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument.
+An inner quantifier can be used to indicate the cardinality of the group.
+An outer quantifier can be used to quantify distributively over such groups.
+A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+
   lei brazo cu jinga fi lei dotco la kabri
   ''The Brazilians beat the Germans for the Cup.''
 
-;__lai__ (LA): Name mass article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to a group of individuals that  the speaker has in mind and names with the selbri or cmevla and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used (in the case of a selbri) as part of the name. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+;__lai__ (LA):
+Name mass article.
+It converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
+The resulting expression refers specifically to a group of individuals that  the speaker has in mind and names with the selbri or cmevla and which collectively satisfy the predicate for which the sumti is an argument.
+An inner quantifier can be used (in the case of a selbri) as part of the name.
+An outer quantifier can be used to quantify distributively over such groups.
+A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+
   ta melbi pixra lai simpson
   ''That's a nice photograph of the Simpsons.''
 
-;__lo'i__ (LE): Generic set article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to a set or sets of individuals that fit the first argument of the selbri. An inner quantifier can be used to indicate the cardinality of the set. An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+;__lo'i__ (LE):
+Generic set article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers generically to a set or sets of individuals that fit the first argument of the selbri.
+An inner quantifier can be used to indicate the cardinality of the set.
+An outer quantifier can be used to quantify distributively over such sets.
+A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+
   ma cnano lo junta lo'i cifnu poi cazi jbena 
   ''What is the normal weight of a baby at childbirth?'' 
 
-;__le'i__ (LE): Specific set article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to the set of individuals that the speaker has in mind and describes as fitting the first argument of the selbri. An inner quantifier can be used to indicate the cardinality of the set.  An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+;__le'i__ (LE):
+Specific set article.
+It converts a selbri, selecting its first argument, into a sumti.
+The resulting expression refers specifically to the set of individuals that the speaker has in mind and describes as fitting the first argument of the selbri.
+An inner quantifier can be used to indicate the cardinality of the set.
+An outer quantifier can be used to quantify distributively over such sets.
+A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+
   ro le verba pu cuxna pa karda le'i cnita selcra
   ''Each child chose a card from the face-down collection.''
 
-;__la'i__ (LA): Name set article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to the set of individuals that the speaker has in mind and names with the selbri or cmevla. An inner quantifier can be used (in the case of a selbri) as part of the name.  An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set. 
+;__la'i__ (LA):
+Name set article.
+It converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
+The resulting expression refers specifically to the set of individuals that the speaker has in mind and names with the selbri or cmevla.
+An inner quantifier can be used (in the case of a selbri) as part of the name.
+An outer quantifier can be used to quantify distributively over such sets.
+A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+
   doi turni do so'i da na fadni la'i kenedis ma'i lo jecra'a
   ''Governor, in many respects, you're not a typical Kennedy politically.''
 
