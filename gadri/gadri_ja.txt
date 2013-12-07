@@ -164,6 +164,9 @@ An outer quantifier can be used to quantify distributively over those individual
 loi (LE):
 包括的な集団の冠詞。
 セルブリを、その1番目の引数を取って、スムティにする。
+結果としてできる表現はそのセルブリの1番目の引数に適う個体と、
+それが、集団として、そのスムティが引数となっている場所の叙述を満たす個体の
+単数または複数の集団を包括的に示す。
 
 ;__loi__ (LE):
 Generic mass article.
