@@ -284,27 +284,61 @@ and indicate its cardinality as a fraction of the cardinality of the set.
 	生まれて間もない「集合」ということになってしまう。
 	poiが「直前のスムティを修飾する」のであれば後者となる。
 
+le'i:
+特定的な集合の冠詞
+セルブリを、その1番目の引数を取って、スムティにする。
+結果としてできる表現は話者の心の中にあり、
+話者がそのセルブリの1番目の引数に適うものとして描写する個体の集合を示す。
+内部数量子で集合が含む個体の数(cardinality)を示すことができる。
+外部数量子はそれらの集合をそれぞれひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集合を取り出すことができ、
+その部分集合の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
+
 ;__le'i__ (LE):
 Specific set article.
 It converts a selbri, selecting its first argument, into a sumti.
-The resulting expression refers specifically to the set of individuals that the speaker has in mind and describes as fitting the first argument of the selbri.
+The resulting expression refers specifically to
+the set of individuals that the speaker has in mind
+and describes as fitting the first argument of the selbri.
 An inner quantifier can be used to indicate the cardinality of the set.
 An outer quantifier can be used to quantify distributively over such sets.
-A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+A fractional outer quantifier can be used to select a subset
+and indicate its cardinality as a fraction of the cardinality of the set.
 
   ro le verba pu cuxna pa karda le'i cnita selcra
   ''Each child chose a card from the face-down collection.''
+  子供達はみなその「下的に後ろにあるもの」のなかから1枚カードを選んだ。
+
+訳注: cnita selcraを「ふせられている」の意味で使っているのだろうか。
+	ちょっと無理があると思われる。
+	craneが「x1がx2の前にある」なのでlo selcraは「後ろにあるもの」。
+	するとlo crane selcraは「下の後ろにあるもの」となるだろう。
+	leだから良いということに、なるだろうか?
+
+la'i:
+名前の集合の冠詞。
+その1番目の引数を取ってセルブリを、またはシメブラ列をスムティに変える。
+結果としてできる表現は話者の心の中にあり、
+話者がそのセルブリやシメネで名づけた個体の集合となる。
+(セルブリの場合)内部数量子を名前の一部として使える。
+外部数量子はそれらの集合をそれぞれひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集合を取り出すことができ、
+その部分集合の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
 
 ;__la'i__ (LA):
 Name set article.
-It converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
-The resulting expression refers specifically to the set of individuals that the speaker has in mind and names with the selbri or cmevla.
+It converts a selbri, selecting its first argument,
+or any string of cmevla into a sumti.
+The resulting expression refers specifically to
+the set of individuals that the speaker has in mind
+and names with the selbri or cmevla.
 An inner quantifier can be used (in the case of a selbri) as part of the name.
 An outer quantifier can be used to quantify distributively over such sets.
 A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
 
   doi turni do so'i da na fadni la'i kenedis ma'i lo jecra'a
   ''Governor, in many respects, you're not a typical Kennedy politically.''
+  支配者よ、政治に関して、あなたは多くの面でケネディ達のあいだで普通ではない。
 
 
 !!Formal definitions
