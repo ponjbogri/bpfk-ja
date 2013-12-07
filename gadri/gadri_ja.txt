@@ -252,16 +252,37 @@ and indicate its cardinality as a fraction of the cardinality of the group.
   ''That's a nice photograph of the Simpsons.''
   あれはシンプソン達を描いた美しい絵だ。
 
+lo'i (LE):
+包括的な集合の冠詞
+セルブリを、1番目の引数を取って、スムティにする。
+結果としてできる表現はセルブリの1番目の引数に適う個体の単数または複数の集合を示す。
+内部数量子で集合が含む個体の数(cardinality)を示すことができる。
+外部数量子はそれらの集合をそれぞれひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集合を取り出すことができ、
+その部分集合の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
+
 ;__lo'i__ (LE):
 Generic set article.
 It converts a selbri, selecting its first argument, into a sumti.
-The resulting expression refers generically to a set or sets of individuals that fit the first argument of the selbri.
+The resulting expression refers generically to
+a set or sets of individuals that fit the first argument of the selbri.
 An inner quantifier can be used to indicate the cardinality of the set.
 An outer quantifier can be used to quantify distributively over such sets.
-A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+A fractional outer quantifier can be used to select a subset
+and indicate its cardinality as a fraction of the cardinality of the set.
 
   ma cnano lo junta lo'i cifnu poi cazi jbena 
   ''What is the normal weight of a baby at childbirth?'' 
+  生まれて間もない赤ちゃんの体重の一般的な値はどのくらいですか。
+
+  生まれて間もない「赤ちゃんの集合」に含まれる赤ちゃん達の体重の
+  一般的な値はどのくらいですか。
+
+訳注: poiによって修飾されるのはcifnuのx1なのかそれともlo'i cifnuなのか。
+	前者ならば上の例文は正しい。
+	後者であるならば上の例文は正しくない。
+	生まれて間もない「集合」ということになってしまう。
+	poiが「直前のスムティを修飾する」のであれば後者となる。
 
 ;__le'i__ (LE):
 Specific set article.
