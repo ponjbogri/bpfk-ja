@@ -188,12 +188,6 @@ A fractional outer quantifier can be used to select a subgroup and indicate its 
   ''Many students are surrounding the building. Many of the students are yelling.''
   たくさんの学生達が建物を取り囲んでいる。その学生達の多くが叫んでいる。
 
-  訳注: この場合、pi so'i le tadniのほうが良さそうだ。
-	so'i le tadniだと「学生の集団」がたくさんいることになる。
-	「ひとつまたは少数の多くの学生から成る集団が取り囲んでいて、
-	そのひとつまたは少数の集団のなかにいる学生のほとんどから成る集団が叫んでいる」
-	ということだと思うので。
-
   lo mulno kardygri cu gunma lo vo loi paci karda
   ''A full deck consists of four groups of thirteen cards.''
   そろっているトランプ一組みは12枚のカードの4組みから成る。
@@ -206,8 +200,13 @@ A fractional outer quantifier can be used to select a subgroup and indicate its 
 Lei (LE):
 特定の集団の冠詞。
 セルブリを、その1番目の引数を取って、スムティにする。
-結果としてできる表現は話者の心にありそのセルブリの1番目の引数に適うものとして
-話者が描写する個体の集団と、
+結果としてできる表現は話者の心にあり、そのセルブリの1番目の引数に適うものとして
+話者が描写する個体の集団を示し、
+そのスムティが引数となっている叙述を集団として満たす。
+内部数量子を集団の要素の数(cardinality)を示すのに使うことができる。
+外部数量子はそれぞれの集団をひとつずつ数えるのに使える。
+外部数量子を分数とすることで、部分集団を取り出すことができ、
+その部分集団の要素の数(cardinality)を全体の要素の数に対する割合で示すことができる。
 
 ;__lei__ (LE):
 Specific mass article.
@@ -223,6 +222,7 @@ and indicate its cardinality as a fraction of the cardinality of the group.
 
   lei brazo cu jinga fi lei dotco la kabri
   ''The Brazilians beat the Germans for the Cup.''
+  ブラジル人たちがドイツ人たちからカップを勝ち取った。
 
 ;__lai__ (LA):
 Name mass article.
