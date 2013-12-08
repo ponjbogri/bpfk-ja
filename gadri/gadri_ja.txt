@@ -340,6 +340,7 @@ A fractional outer quantifier can be used to select a subset and indicate its ca
   ''Governor, in many respects, you're not a typical Kennedy politically.''
   支配者よ、政治に関して、あなたは多くの面でケネディ達のあいだで普通ではない。
 
+[形式的な定義]
 
 !!Formal definitions
 
@@ -348,12 +349,19 @@ LE, LA
 
 
 lo [[PA] broda | zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda]
+	brodaである何か[それはlo brodaを単位としてPA個である]
 le [[PA] broda | zo'e noi mi ke'a do skicu lo ka ce'u broda [[gi'e zilkancu li PA lo broda] 
+	それがbrodaであるという性質を私が描写する何か
+	[それはlo brodaを単位としてPA個である]
 la [[PA] broda | zo'e noi lu [[PA] broda li'u cmene ke'a mi
+	私がそれを「[PA] broda」と呼ぶ何か
 
 lo PA ''sumti'' | lo PA me ''sumti''
+	PA個のsumtiで表現されるものに含まれるもの
 le PA ''sumti'' | le PA me ''sumti''
+	PA個のsumtiで表現されるものに含まれるものとして描写するもの
 la PA ''sumti'' | zo'e noi lu PA ''sumti'' li'u cmene ke'a mi 
+	私が「PA sumti」と呼ぶ何か
 
 
 loi [[PA] broda | lo gunma be lo [[PA] broda
